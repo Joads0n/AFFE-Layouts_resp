@@ -37,7 +37,7 @@
     }
 
     .rodape__navegacao {
-        text-align: left;
         min-width: 600px;
+        text-align: left;
     }
 }
